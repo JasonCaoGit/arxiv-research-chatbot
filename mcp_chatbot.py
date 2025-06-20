@@ -6,6 +6,8 @@ from typing import List, Dict, TypedDict
 from contextlib import AsyncExitStack
 import json
 import asyncio
+from mcp.client.streamable_http import streamablehttp_client
+
 
 
 load_dotenv()
@@ -40,10 +42,10 @@ class MCP_Chatbot:
             )
             # register the session to the manager and get the read and write streams
             # start the server, fetch the files from npx or uvx
-            stdio_transport = await self.exit_stack.enter_async_context(
-                stdio_client(server_params)
+            streamable_transport = await self.exit_stack.enter_async_context(
+                streamablehttp_client(url="server_url/mcp/") #TODO replace with actual server URL
             )
-            read, write = stdio_transport
+            read, write = streamable_transport
             session = await self.exit_stack.enter_async_context(
                 ClientSession(read, write)
             )
