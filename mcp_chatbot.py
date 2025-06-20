@@ -37,13 +37,11 @@ class MCP_Chatbot:
             server_config: Configuration parameters for the server.
         """
         try:
-            server_params = StdioServerParameters(
-                **server_config
-            )
+            
             # register the session to the manager and get the read and write streams
             # start the server, fetch the files from npx or uvx
             streamable_transport = await self.exit_stack.enter_async_context(
-                streamablehttp_client(url="server_url/mcp/") #TODO replace with actual server URL
+                streamablehttp_client(url="https://github.com/JasonCaoGit/arxiv-research-chatbot/mcp/") #TODO replace with actual server URL
             )
             read, write = streamable_transport
             session = await self.exit_stack.enter_async_context(

@@ -6,8 +6,9 @@ from mcp.server.fastmcp import FastMCP
 
 PAPER_DIR = "papers"
 
-# Initialize FastMCP server
-mcp = FastMCP("research", port=8001)
+# Initialize FastMCP server - bind to 0.0.0.0 for Render deployment
+# This allows external access from Render's servers
+mcp = FastMCP("research", port=8001, host="0.0.0.0")
 
 
 @mcp.tool()
