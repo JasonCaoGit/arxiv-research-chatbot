@@ -1,8 +1,9 @@
+
 import arxiv
 import json
 import os
 from typing import List
-from fastmcp import FastMCP
+from mcp.server.fastmcp import FastMCP
 
 PAPER_DIR = "papers"
 
