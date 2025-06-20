@@ -1,0 +1,53 @@
+{
+  "2404.15040v1": {
+    "title": "Animated $\u03bb$-rings and Frobenius lifts",
+    "authors": [
+      "Edith H\u00fcbner"
+    ],
+    "summary": "In this note, we study an integral analogue of animated $\\delta$-rings:\nAnimated $\\lambda$-rings. We define animated $\\lambda$-rings in terms of\nanimated rings equipped with a structure of coherently compatible Frobenius\nlifts and show that the resulting $\\infty$-category is obtained from animating\nthe classical notion of a $\\lambda$-ring. Our results build on the theory of\nanimated $\\delta$-rings developed by Bhatt and Lurie in the context of\nprismatic cohomology.",
+    "pdf_url": "http://arxiv.org/pdf/2404.15040v1",
+    "published": "2024-04-23"
+  },
+  "1908.05806v2": {
+    "title": "Cross-Domain Adaptation for Animal Pose Estimation",
+    "authors": [
+      "Jinkun Cao",
+      "Hongyang Tang",
+      "Hao-Shu Fang",
+      "Xiaoyong Shen",
+      "Cewu Lu",
+      "Yu-Wing Tai"
+    ],
+    "summary": "In this paper, we are interested in pose estimation of animals. Animals\nusually exhibit a wide range of variations on poses and there is no available\nanimal pose dataset for training and testing. To address this problem, we build\nan animal pose dataset to facilitate training and evaluation. Considering the\nheavy labor needed to label dataset and it is impossible to label data for all\nconcerned animal species, we, therefore, proposed a novel cross-domain\nadaptation method to transform the animal pose knowledge from labeled animal\nclasses to unlabeled animal classes. We use the modest animal pose dataset to\nadapt learned knowledge to multiple animals species. Moreover, humans also\nshare skeleton similarities with some animals (especially four-footed mammals).\nTherefore, the easily available human pose dataset, which is of a much larger\nscale than our labeled animal dataset, provides important prior knowledge to\nboost up the performance on animal pose estimation. Experiments show that our\nproposed method leverages these pieces of prior knowledge well and achieves\nconvincing results on animal pose estimation.",
+    "pdf_url": "http://arxiv.org/pdf/1908.05806v2",
+    "published": "2019-08-16"
+  },
+  "2002.02171v1": {
+    "title": "PaSe: An Extensible and Inspectable DSL for Micro-Animations",
+    "authors": [
+      "Ruben P. Pieters",
+      "Tom Schrijvers"
+    ],
+    "summary": "This paper presents PaSe, an extensible and inspectable DSL embedded in\nHaskell for expressing micro-animations. The philosophy of PaSe is to compose\nanimations based on sequential and parallel composition of smaller animations.\nThis differs from other animation libraries that focus more on sequential\ncomposition and have only limited forms of parallel composition. To provide\nsimilar flexibility as other animation libraries, PaSe features extensibility\nof operations and inspectability of animations. We present the features of PaSe\nwith a to-do list application, discuss the PaSe implementation, and argue that\nthe callback style of extensibility is detrimental for correctly combining PaSe\nfeatures. We contrast with the GreenSock Animation Platform, a\nprofessional-grade and widely used JavaScript animation library, to illustrate\nthis point.",
+    "pdf_url": "http://arxiv.org/pdf/2002.02171v1",
+    "published": "2020-02-06"
+  },
+  "2402.18212v1": {
+    "title": "Pach's animal problem within the bounding box",
+    "authors": [
+      "Martin Tancer"
+    ],
+    "summary": "A collection of unit cubes with integer coordinates in $\\mathbb R^3$ is an\nanimal if its union is homeomorphic to the 3-ball. Pach's animal problem asks\nwhether any animal can be transformed to a single cube by adding or removing\ncubes one by one in such a way that any intermediate step is an animal as well.\nHere we provide an example of an animal that cannot be transformed to a single\ncube this way within its bounding box.",
+    "pdf_url": "http://arxiv.org/pdf/2402.18212v1",
+    "published": "2024-02-28"
+  },
+  "1606.03048v2": {
+    "title": "A Minimum Spanning Tree Representation of Anime Similarities",
+    "authors": [
+      "Canggih Puspo Wibowo"
+    ],
+    "summary": "In this work, a new way to represent Japanese animation (anime) is presented.\nWe applied a minimum spanning tree to show the relation between anime. The\ndistance between anime is calculated through three similarity measurements,\nnamely crew, score histogram, and topic similarities. Finally, the centralities\nare also computed to reveal the most significance anime. The result shows that\nthe minimum spanning tree can be used to determine the similarity anime.\nFurthermore, by using centralities calculation, we found some anime that are\nsignificant to others.",
+    "pdf_url": "http://arxiv.org/pdf/1606.03048v2",
+    "published": "2016-06-07"
+  }
+}

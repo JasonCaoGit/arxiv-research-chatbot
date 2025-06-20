@@ -1,0 +1,54 @@
+{
+  "1810.02466v1": {
+    "title": "The Looming Threat of China: An Analysis of Chinese Influence on Bitcoin",
+    "authors": [
+      "Ben Kaiser",
+      "Mireya Jurado",
+      "Alex Ledger"
+    ],
+    "summary": "As Bitcoin's popularity has grown over the decade since its creation, it has\nbecome an increasingly attractive target for adversaries of all kinds. One of\nthe most powerful potential adversaries is the country of China, which has\nexpressed adversarial positions regarding the cryptocurrency and demonstrated\npowerful capabilities to influence it. In this paper, we explore how China\nthreatens the security, stability, and viability of Bitcoin through its\ndominant position in the Bitcoin ecosystem, political and economic control over\ndomestic activity, and control over its domestic Internet infrastructure. We\nexplore the relationship between China and Bitcoin, document China's motivation\nto undermine Bitcoin, and present a case study to demonstrate the strong\ninfluence that China has over Bitcoin. Finally, we systematize the class of\nattacks that China can deploy against Bitcoin to better understand the threat\nChina poses. We conclude that China has mature capabilities and strong motives\nfor performing a variety of attacks against Bitcoin.",
+    "pdf_url": "http://arxiv.org/pdf/1810.02466v1",
+    "published": "2018-10-05"
+  },
+  "2005.10537v1": {
+    "title": "China's SCI-indexed publications: facts, feelings, and future directions",
+    "authors": [
+      "Weishu Liu"
+    ],
+    "summary": "Purpose:In relation to the boom in China's SCI-indexed publications, this\nopinion piece examines this phenomenon and looks at future possible directions\nfor the reform of China's research evaluation processes.\nDesign/Approach/Methods:This opinion piece uses bibliographic data for the past\ndecade (2010-2019) from the Science Citation Index Expanded in the Web of\nScience Core Collection to examine the rise in China's SCI-indexed\npublications. Findings: China has surpassed the United States and been the\nlargest contributor of SCI publications since 2018. However, while the impact\nof China's SCI publications is rising, the scale of this impact still lags\nbehind that of other major contributing countries. China's SCI publications are\nalso overrepresented in some journals. Originality/Value: Reporting the latest\nfacts about China's SCI-indexed publications, this article will benefit the\nreform of China's research evaluation system.",
+    "pdf_url": "http://arxiv.org/pdf/2005.10537v1",
+    "published": "2020-05-21"
+  },
+  "2211.06116v1": {
+    "title": "How Much Hate with #china? A Preliminary Analysis on China-related Hateful Tweets Two Years After the Covid Pandemic Began",
+    "authors": [
+      "Jinghua Xu",
+      "Zarah Weiss"
+    ],
+    "summary": "Following the outbreak of a global pandemic, online content is filled with\nhate speech. Donald Trump's ''Chinese Virus'' tweet shifted the blame for the\nspread of the Covid-19 virus to China and the Chinese people, which triggered a\nnew round of anti-China hate both online and offline. This research intends to\nexamine China-related hate speech on Twitter during the two years following the\nburst of the pandemic (2020 and 2021). Through Twitter's API, in total\n2,172,333 tweets hashtagged #china posted during the time were collected. By\nemploying multiple state-of-the-art pretrained language models for hate speech\ndetection, we identify a wide range of hate of various types, resulting in an\nautomatically labeled anti-China hate speech dataset. We identify a hateful\nrate in #china tweets of 2.5% in 2020 and 1.9% in 2021. This is well above the\naverage rate of online hate speech on Twitter at 0.6% identified in Gao et al.,\n2017. We further analyzed the longitudinal development of #china tweets and\nthose identified as hateful in 2020 and 2021 through visualizing the daily\nnumber and hate rate over the two years. Our keyword analysis of hate speech in\n#china tweets reveals the most frequently mentioned terms in the hateful #china\ntweets, which can be used for further social science studies.",
+    "pdf_url": "http://arxiv.org/pdf/2211.06116v1",
+    "published": "2022-11-11"
+  },
+  "2307.10198v1": {
+    "title": "Has China caught up to the US in AI research? An exploration of mimetic isomorphism as a model for late industrializers",
+    "authors": [
+      "Chao Min",
+      "Yi Zhao",
+      "Yi Bu",
+      "Ying Ding",
+      "Caroline S. Wagner"
+    ],
+    "summary": "Artificial Intelligence (AI), a cornerstone of 21st-century technology, has\nseen remarkable growth in China. In this paper, we examine China's AI\ndevelopment process, demonstrating that it is characterized by rapid learning\nand differentiation, surpassing the export-oriented growth propelled by Foreign\nDirect Investment seen in earlier Asian industrializers.\n  Our data indicates that China currently leads the USA in the volume of\nAI-related research papers. However, when we delve into the quality of these\npapers based on specific metrics, the USA retains a slight edge. Nevertheless,\nthe pace and scale of China's AI development remain noteworthy.\n  We attribute China's accelerated AI progress to several factors, including\nglobal trends favoring open access to algorithms and research papers,\ncontributions from China's broad diaspora and returnees, and relatively lax\ndata protection policies.\n  In the vein of our research, we have developed a novel measure for gauging\nChina's imitation of US research. Our analysis shows that by 2018, the time lag\nbetween China and the USA in addressing AI research topics had evaporated. This\nfinding suggests that China has effectively bridged a significant knowledge gap\nand could potentially be setting out on an independent research trajectory.\n  While this study compares China and the USA exclusively, it's important to\nnote that research collaborations between these two nations have resulted in\nmore highly cited work than those produced by either country independently.\nThis underscores the power of international cooperation in driving scientific\nprogress in AI.",
+    "pdf_url": "http://arxiv.org/pdf/2307.10198v1",
+    "published": "2023-07-11"
+  },
+  "2009.13688v1": {
+    "title": "Blaschke, Osgood, Wiener, Hadamard and the Early Development of Modern Mathematics in China",
+    "authors": [
+      "Chuanming Zong"
+    ],
+    "summary": "In ancient times, China made great contributions to world civilization and in\nparticular to mathematics. However, modern sciences including mathematics came\nto China rather too late. The first Chinese university was founded in 1895. The\nfirst mathematics department in China was formally opened at the university\nonly in 1913. At the beginning of the twentieth century, some Chinese went to\nEurope, the United States of America and Japan for higher education in modern\nmathematics and returned to China as the pioneer generation. They created\nmathematics departments at the Chinese universities and sowed the seeds of\nmodern mathematics in China. In 1930s, when a dozen of Chinese universities\nalready had mathematics departments, several leading mathematicians from Europe\nand USA visited China, including Wilhelm Blaschke, George D. Birkhoff, William\nF. Osgood, Norbert Wiener and Jacques Hadamard. Their visits not only had\nprofound impact on the mathematical development in China, but also became\nsocial events sometimes. This paper tells the history of their visits.",
+    "pdf_url": "http://arxiv.org/pdf/2009.13688v1",
+    "published": "2020-09-28"
+  }
+}
