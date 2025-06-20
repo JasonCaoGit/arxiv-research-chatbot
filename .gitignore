@@ -10,4 +10,4 @@ wheels/
 .venv
 .env
 papers
-computer-vision-flashcards
+*/node_modules
